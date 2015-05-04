@@ -3,13 +3,49 @@
   height: 30em;
   position: relative;
   top: 30px;
-  left: 25%;
+  margin: 0 auto;
 }
 
 .box {
-  width: 10em;
-  height: 10em;
+  width: 150px;
+  height: 150px;
   border: 1px solid black;
   display: inline-block;
   margin-bottom: 4px;
+  position:relative;
+  font-size:140px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.xmove {
+    background-color: rgb(246, 232, 255);
+}
+
+.reset {
+  border: solid 1px black;
+  background-color:#ddd;
+  width:120px;
+  height:100px; 
+  font-size:50px;
+  text-align:center;
+  margin: 0 auto;
+  margin-top: 30px;
+  height: 60px;
+  left: -15px;
+  position: relative;
+}
+
+h1 {
+  text-align:center;
+  left: -15px;
+  position: relative;
+  font-size: 45px;
+}
+
+h2 {
+  text-align:center;
+  left: -15px;
+  position: relative;
+  font-size: 25px;
 }
