@@ -18,8 +18,17 @@
   overflow: hidden;
 }
 
+
 .xmove {
     background-color: rgb(246, 232, 255);
+}
+
+.omove {
+    background-color: rgb(246, 232, 255);
+}
+
+.omove{
+
 }
 
 .reset {
